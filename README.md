@@ -1,5 +1,5 @@
 - [ ] [Host Manager/ Culture/ Soft Skills](culture.md)
-- [ ] [Incident Response](incident-response.md)
+- [x] [Incident Response](incident-response.md)
 - [ ] [Linux Systems](linux-systems.md)
   - [ ] [General Questions](linux-by-subsystem/basics.md)
   - [ ] [Filesystems](linux-by-subsystem/fs.md)
