@@ -9,5 +9,4 @@
 - [ ] [Observability/ Monitoring](observability.md)
 - [ ] [Questions to ask interviewers](questions-to-ask-interviewers.md)
 - [ ] [Security](security.md)
-- [ ] [System Design](system-design.md)
 - [ ] [System Design](https://github.com/rajni0829/system-design)
